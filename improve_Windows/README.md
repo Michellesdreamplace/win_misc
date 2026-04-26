@@ -60,3 +60,52 @@ irm "https://christitus.com/win" | iex
  > [!WARNING]
  > Das Ausführen des Skripts mit PowerShell 7 wird nicht mehr unterstützt und verursacht Probleme, bitte sicherstellen, dass du Windows PowerShell (5.1) benutzt
  >
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+----------------------
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+ ### Reboot-Blocker (https://udse.de/reboot-blocker)
+ #### von Ulrich Decker Software Entwicklung [Dokumentation](https://udse.de/reboot-blocker/reboot-blocker-dokumentation)
+
+ ##### [Mirror-Download](https://github.com/Michellesdreamplace/win_misc/raw/refs/heads/main/improve_Windows/RebootBlockerSetup.zip)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+----------------------
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+ ### GetMyKeysBack2
+ 
+ ##### [Mirror-Download](https://github.com/Michellesdreamplace/win_misc/raw/refs/heads/main/improve_Windows/getmykeysback2.zip)
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+----------------------
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
