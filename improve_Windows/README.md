@@ -16,3 +16,17 @@
  ```
 
 
+----------------------
+
+
+ ### ExplorerPatcher
+ 
+ #### VDieses Projekt zielt darauf ab, die Arbeitsumgebung unter Windows zu verbessern.
+ 
+ Lade die neueste Version des Setup-Programms [hier](https://github.com/valinet/ExplorerPatcher/releases/latest) herunter.
+ * Wähle `ep_setup.exe` wenn dein Gerät einen Intel- oder AMD-Prozessor verwendet oder  `ep_setup_arm64.exe` wenn dein Gerät einen Snapdragon-Prozessor verwendet.
+
+
+----------------------
+
+
