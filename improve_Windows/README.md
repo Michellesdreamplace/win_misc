@@ -10,7 +10,7 @@
  ### WinUtil
  #### von [Chris Titus Tech](https://christitus.com/windows-tool)
 
- ##### In der Windows Powershell Console als Administrator ausführen:
+ ##### In der Windows PowerShell Console als Administrator ausführen:
  ```PowerShell
 irm "https://christitus.com/win" | iex
  ```
@@ -52,7 +52,7 @@ irm "https://christitus.com/win" | iex
  ### Entfernen der Windows Ai
  #### von [zoic!](https://github.com/zoicware/RemoveWindowsAI)
  
- ##### In der Windows Powershell Console als Administrator ausführen:
+ ##### In der Windows PowerShell Console als Administrator ausführen:
  ```PowerShell
  & ([scriptblock]::Create((irm "https://raw.githubusercontent.com/zoicware/RemoveWindowsAI/main/RemoveWindowsAi.ps1")))
  ```
