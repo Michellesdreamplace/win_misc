@@ -7,7 +7,7 @@
  ---
 
  > [!WARNING]
- > Das Ausführen des Skripts mit PowerShell 7 wird nicht mehr unterstützt und verursacht Probleme, um sicherzustellen, dass Sie Windows PowerShell (5.1) ausführen
+ > Das Ausführen des Skripts mit PowerShell 7 wird nicht mehr unterstützt und verursacht Probleme, bitte sicherstellen, dass du Windows PowerShell (5.1) benutzt
  >
 
  ### Starten mit UI
