@@ -1,5 +1,11 @@
 # Kurz und knapp Windows "verbessern":
 
+----------------------
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
  
  ### Entfernen der Windows Ai
  
@@ -17,9 +23,13 @@
 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 ----------------------
 
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
