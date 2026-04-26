@@ -15,9 +15,13 @@
  & ([scriptblock]::Create((irm "https://raw.githubusercontent.com/zoicware/RemoveWindowsAI/main/RemoveWindowsAi.ps1")))
  ```
 
+&nbsp;
+&nbsp;
 
 ----------------------
 
+&nbsp;
+&nbsp;
 
  ### ExplorerPatcher
  
