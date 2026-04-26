@@ -7,10 +7,10 @@
 &nbsp;
 &nbsp;
 
- ## WinUtil
- ### von Chris Titus Tech
+ ### WinUtil
+ #### von [Chris Titus Tech](https://christitus.com/windows-tool)
 
- #### Von der Powershell Console als Administrator aus ausführen
+ ##### Von der Powershell Console als Administrator aus ausführen
  ```PowerShell
 irm "https://christitus.com/win" | iex
  ```
@@ -28,7 +28,7 @@ irm "https://christitus.com/win" | iex
 &nbsp;
 
 
- ## ExplorerPatcher
+ ### ExplorerPatcher
  
  #### Dieses Projekt zielt darauf ab, die Arbeitsumgebung unter Windows zu verbessern.
  
@@ -48,7 +48,7 @@ irm "https://christitus.com/win" | iex
 &nbsp;
 &nbsp;
  
- ## Entfernen der Windows Ai
+ ### Entfernen der Windows Ai
  
  #### Von der Powershell Console als Administrator aus ausführen
 
