@@ -54,5 +54,5 @@
 
  ### Tool von CHRIS TITUS
  ```PowerShell
-irm "https://christitus.com/win | iex
+irm "https://christitus.com/win" | iex
  ```
