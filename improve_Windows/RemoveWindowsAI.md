@@ -58,7 +58,7 @@ Der aktuelle 25H2 Build von Windows 11 und zukünftigen Builds wird immer mehr K
 ### Lesen Sie hier die Script Docs
   > **[Dokumentation](https://github.com/zoicware/RemoveWindowsAI/blob/main/Documentation.md)**
 
-  > [!WARNUNG]
+  > [!WARNING]
   > Einige Antivirenprogramme von Drittanbietern werden das Skript fälschlicherweise als bösartig erkennen, offensichtlich ist dies falsch positiv und das Antivirenprogramm muss vorübergehend deaktiviert oder das Skript als Ausschluss festgelegt werden.
   >
   > Aufgrund der Art der fortgeschrittenen Änderungen am System werden viele Debloat-Tools / Skripte fälschlicherweise als Malware erkannt... wenn Sie sich über das Skript nicht sicher sind, empfehle ich immer, zuerst Software in einer virtuellen Maschine zu testen
@@ -71,7 +71,7 @@ Der aktuelle 25H2 Build von Windows 11 und zukünftigen Builds wird immer mehr K
  #### Von der Powershell Console als Administrator aus ausführen
  ---
 
- > [!WARNUNG]
+ > [!WARNING]
  > Das Ausführen des Skripts mit PowerShell 7 wird nicht mehr unterstützt und verursacht Probleme, um sicherzustellen, dass Sie Windows PowerShell (5.1) ausführen
  >
 
@@ -135,7 +135,7 @@ photoslegacy
 
 **Mit aktiviertem Backup-Modus ausführen**
 
-> [!Anmerkung]
+> [!NOTE]
 > Der Sicherungsmodus muss aktiviert sein, um vollständig zurückkehren zu können
 > 
  ```PowerShell
