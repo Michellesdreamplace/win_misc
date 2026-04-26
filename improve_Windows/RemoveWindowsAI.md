@@ -2,7 +2,7 @@
 ## Warum?
 Der aktuelle 25H2 Build von Windows 11 und zukünftigen Builds wird immer mehr KI-Funktionen und Komponenten enthalten. Dieses Skript zielt darauf ab, ALLE diese Funktionen zu entfernen, um die Benutzerfreundlichkeit, Privatsphäre und Sicherheit zu verbessern.
 
-### [YouTube](https://www.youtube.com/watch?v=RuqA9fgyEDY)
+### [YouTube von WindowsArea](https://www.youtube.com/watch?v=RuqA9fgyEDY)
 
 ### [ORIGINAL Github](https://github.com/zoicware/RemoveWindowsAI)
 
