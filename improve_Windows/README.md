@@ -75,8 +75,9 @@ irm "https://christitus.com/win" | iex
 &nbsp;
 
 
- ### Reboot-Blocker (https://udse.de/reboot-blocker)
- #### von Ulrich Decker Software Entwicklung [Dokumentation](https://udse.de/reboot-blocker/reboot-blocker-dokumentation)
+ ### Reboot-Blocker
+ #### von [Ulrich Decker Software Entwicklung](https://udse.de/reboot-blocker) 
+ #### [Dokumentation](https://udse.de/reboot-blocker/reboot-blocker-dokumentation)
 
  ##### [Mirror-Download](https://github.com/Michellesdreamplace/win_misc/raw/refs/heads/main/improve_Windows/RebootBlockerSetup.zip)
 
@@ -93,7 +94,10 @@ irm "https://christitus.com/win" | iex
 &nbsp;
 
 
- ### GetMyKeysBack2
+ ### Get My Keys Back 2.0
+
+ #### Get My Keys Back ist ein portables Tool, das verlorene Seriennummern und Lizenzschlüssel von bereits installierten Programmen wie Microsoft Office oder Microsoft Windows-Betriebssystemen ausliest.
+ #### Das Programm kommt ohne Installation aus und lässt sich auch ohne Administrationsrechte starten. So können Nutzer schnell und unkompliziert auf die benötigten Informationen zugreifen, falls die originalen Lizenzdaten nicht mehr auffindbar sind.
  
  ##### [Mirror-Download](https://github.com/Michellesdreamplace/win_misc/raw/refs/heads/main/improve_Windows/getmykeysback2.zip)
 
@@ -109,3 +113,10 @@ irm "https://christitus.com/win" | iex
 &nbsp;
 &nbsp;
 &nbsp;
+
+ ### Magical Jelly Bean Keyfinder 
+ #### [Webseite](https://www.magicaljellybean.com/keyfinder)
+
+ #####Magical Jelly Bean Keyfinder 2.0.10.14 [Mirror-Download](https://github.com/Michellesdreamplace/win_misc/raw/refs/heads/main/improve_Windows/keyfinder201014.zip)
+
+
