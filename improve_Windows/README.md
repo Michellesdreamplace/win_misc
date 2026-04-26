@@ -52,7 +52,9 @@
 &nbsp;
 &nbsp;
 
- ### Tool von CHRIS TITUS
+ ### WinUtil
+ #### von Chris Titus Tech
+ 
  ```PowerShell
 irm "https://christitus.com/win" | iex
  ```
