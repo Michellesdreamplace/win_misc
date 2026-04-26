@@ -6,18 +6,13 @@
 &nbsp;
 &nbsp;
 &nbsp;
- 
- ### Entfernen der Windows Ai
- 
+
+ ## WinUtil
+ ### von Chris Titus Tech
+
  #### Von der Powershell Console als Administrator aus ausführen
-
- > [!WARNING]
- > Das Ausführen des Skripts mit PowerShell 7 wird nicht mehr unterstützt und verursacht Probleme, bitte sicherstellen, dass du Windows PowerShell (5.1) benutzt
- >
-
- ### Starten mit UI
  ```PowerShell
- & ([scriptblock]::Create((irm "https://raw.githubusercontent.com/zoicware/RemoveWindowsAI/main/RemoveWindowsAi.ps1")))
+irm "https://christitus.com/win" | iex
  ```
 
 &nbsp;
@@ -32,7 +27,8 @@
 &nbsp;
 &nbsp;
 
- ### ExplorerPatcher
+
+ ## ExplorerPatcher
  
  #### Dieses Projekt zielt darauf ab, die Arbeitsumgebung unter Windows zu verbessern.
  
@@ -51,10 +47,17 @@
 &nbsp;
 &nbsp;
 &nbsp;
-
- ### WinUtil
- #### von Chris Titus Tech
  
+ ## Entfernen der Windows Ai
+ 
+ #### Von der Powershell Console als Administrator aus ausführen
+
+ > [!WARNING]
+ > Das Ausführen des Skripts mit PowerShell 7 wird nicht mehr unterstützt und verursacht Probleme, bitte sicherstellen, dass du Windows PowerShell (5.1) benutzt
+ >
+
+ ### Starten mit UI
  ```PowerShell
-irm "https://christitus.com/win" | iex
+ & ([scriptblock]::Create((irm "https://raw.githubusercontent.com/zoicware/RemoveWindowsAI/main/RemoveWindowsAi.ps1")))
  ```
+
