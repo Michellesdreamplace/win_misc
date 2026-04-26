@@ -40,6 +40,19 @@
  * Wähle `ep_setup.exe` wenn dein Gerät einen Intel- oder AMD-Prozessor verwendet oder  `ep_setup_arm64.exe` wenn dein Gerät einen Snapdragon-Prozessor verwendet.
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 ----------------------
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
+ ### Tool von CHRIS TITUS
+ ```PowerShell
+irm "https://christitus.com/win | iex
+ ```
