@@ -27,7 +27,6 @@ irm "https://christitus.com/win" | iex
 &nbsp;
 &nbsp;
 
-
  ### ExplorerPatcher
  #### von [valinet](https://github.com/valinet/ExplorerPatcher)
  
@@ -35,7 +34,6 @@ irm "https://christitus.com/win" | iex
  
  Lade die neueste Version des Setup-Programms [hier](https://github.com/valinet/ExplorerPatcher/releases/latest) herunter.
  * Wähle `ep_setup.exe` wenn dein Gerät einen Intel- oder AMD-Prozessor verwendet oder  `ep_setup_arm64.exe` wenn dein Gerät einen Snapdragon-Prozessor verwendet.
-
 
 &nbsp;
 &nbsp;
@@ -61,7 +59,6 @@ irm "https://christitus.com/win" | iex
  > Das Ausführen des Skripts mit PowerShell 7 wird nicht mehr unterstützt und verursacht Probleme, bitte sicherstellen, dass du Windows PowerShell (5.1) benutzt
  >
 
-
 &nbsp;
 &nbsp;
 &nbsp;
@@ -73,7 +70,6 @@ irm "https://christitus.com/win" | iex
 &nbsp;
 &nbsp;
 &nbsp;
-
 
  ### Reboot-Blocker
  #### von [Ulrich Decker Software Entwicklung](https://udse.de/reboot-blocker) 
@@ -93,14 +89,12 @@ irm "https://christitus.com/win" | iex
 &nbsp;
 &nbsp;
 
+ ### Magical Jelly Bean Keyfinder 
+ #### [Webseite](https://www.magicaljellybean.com/keyfinder)
 
- ### Get My Keys Back
+ #### Der Magical Jelly Bean Keyfinder ist ein Freeware-Dienstprogramm, das Ihren Product Key (CD-Schlüssel) abruft, der zur Installation von Windows aus Ihrer Registrierung verwendet wird.
 
- #### Get My Keys Back ist ein portables Tool, das verlorene Seriennummern und Lizenzschlüssel von bereits installierten Programmen wie Microsoft Office oder Microsoft Windows-Betriebssystemen ausliest.
- #### Das Programm kommt ohne Installation aus und lässt sich auch ohne Administrationsrechte starten. So können Nutzer schnell und unkompliziert auf die benötigten Informationen zugreifen, falls die originalen Lizenzdaten nicht mehr auffindbar sind.
- 
- ##### GetMyKeysBack 2.0 [Mirror-Download](https://github.com/Michellesdreamplace/win_misc/raw/refs/heads/main/improve_Windows/getmykeysback2.zip)
-
+ ##### Magical Jelly Bean Keyfinder 2.0.10.14 [Mirror-Download](https://github.com/Michellesdreamplace/win_misc/raw/refs/heads/main/improve_Windows/keyfinder201014.zip)
 
 &nbsp;
 &nbsp;
@@ -114,9 +108,23 @@ irm "https://christitus.com/win" | iex
 &nbsp;
 &nbsp;
 
- ### Magical Jelly Bean Keyfinder 
- #### [Webseite](https://www.magicaljellybean.com/keyfinder)
+ ### Get My Keys Back
+ #### von [Sebastian Gross](http://bigbasti.com/de/projects/gmkb)
 
- ##### Magical Jelly Bean Keyfinder 2.0.10.14 [Mirror-Download](https://github.com/Michellesdreamplace/win_misc/raw/refs/heads/main/improve_Windows/keyfinder201014.zip)
+ #### Get My Keys Back ist ein portables Tool, das verlorene Seriennummern und Lizenzschlüssel von bereits installierten Programmen wie Microsoft Office oder Microsoft Windows-Betriebssystemen ausliest.
+ #### Das Programm kommt ohne Installation aus und lässt sich auch ohne Administrationsrechte starten. So können Nutzer schnell und unkompliziert auf die benötigten Informationen zugreifen, falls die originalen Lizenzdaten nicht mehr auffindbar sind.
+ 
+ ##### GetMyKeysBack 2.0 [Mirror-Download](https://github.com/Michellesdreamplace/win_misc/raw/refs/heads/main/improve_Windows/getmykeysback2.zip)
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+----------------------
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
