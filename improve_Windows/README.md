@@ -1,3 +1,26 @@
+ #### Computer auf Updates überprüfen
+ ##### In der Windows PowerShell Console als Administrator ausführen:
+ ```PowerShell
+winget list --upgrade-available --include-unknown
+ ```
+
+ #### Update für alle Programme
+ ##### In der Windows PowerShell Console als Administrator ausführen:
+ ```PowerShell
+winget upgrade --all --include-unknown
+ ```
+
+winget list --upgrade-available --include-unknown 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+----------------------
 # Kurz und knapp Windows "verbessern":
 
 &nbsp;
