@@ -1,3 +1,10 @@
+# Updates zuerst:
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
  #### Computer auf Updates überprüfen
  ##### In der Windows PowerShell Console als Administrator ausführen:
  ```PowerShell
@@ -10,7 +17,6 @@ winget list --upgrade-available --include-unknown
 winget upgrade --all --include-unknown
  ```
 
-winget list --upgrade-available --include-unknown 
 &nbsp;
 &nbsp;
 &nbsp;
