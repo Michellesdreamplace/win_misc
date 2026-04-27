@@ -137,6 +137,8 @@ irm "https://christitus.com/win" | iex
 
 #### Personal Backup ist eine Backup Freeware für Windows, die automatische oder manuelle Datensicherungen auf lokalen oder externen Festplatten ermöglicht. Die Software unterstützt Filter, Komprimierung, Verschlüsselung und inkrementelle Backups.
 
+##### Personal Backup 64bit Version 6.4.9.0 [Mirror-Download](https://github.com/Michellesdreamplace/win_misc/raw/refs/heads/main/improve_Windows/PersonalBackup_64bit_6.4.9.0.zip)
+
 &nbsp;
 &nbsp;
 &nbsp;
