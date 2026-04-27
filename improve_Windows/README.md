@@ -5,13 +5,13 @@
 &nbsp;
 &nbsp;
 
- #### Computer auf Updates überprüfen
+ ### Computer auf Updates überprüfen
  ##### In der Windows PowerShell Console als Administrator ausführen:
  ```PowerShell
 winget list --upgrade-available --include-unknown
  ```
 
- #### Update für alle Programme
+ ### Update für alle Programme
  ##### In der Windows PowerShell Console als Administrator ausführen:
  ```PowerShell
 winget upgrade --all --include-unknown
