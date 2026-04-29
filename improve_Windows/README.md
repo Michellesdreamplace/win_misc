@@ -111,6 +111,25 @@ irm "https://christitus.com/win" | iex
 &nbsp;
 &nbsp;
 &nbsp;
+
+----------------------
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+ ### Classic Shell
+ #### von [Ivo Beltchev](https://www.classicshell.net) 
+
+ #### Die neueste stabile Version von Classic Shell ist 4.3.1 vom 12.08.2017, und befindet sich seit Dezember 2017 nicht mehr in der aktiven Entwicklung.
+
+ ##### Classic Shell 4.3.1 (German) [Mirror-Download](https://github.com/Michellesdreamplace/win_misc/raw/refs/heads/main/improve_Windows/ClassicShell_4_3_1-de.zip)
+ 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
